@@ -1,0 +1,48 @@
+{
+    "name": "Exchange Rate API",
+    "description": "A reliable, easy to use & fast Exchange Rate API. Our Currency API enables currency conversion in any language with just a few lines of code!",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/exchange-rate-api.png",
+    "tags": [
+        "api provider",
+        "currencies",
+        "financial",
+        "financial data",
+        "have api",
+        "plain text"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/exchange-rate-api\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Exchange Rate API",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/exchange-rate-api.png",
+            "humanURL": "http:\/\/www.exchangerate-api.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/exchange-rate-api-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "http:\/\/www.exchangerate-api.com\/"
+        },
+        {
+            "type": "Email",
+            "url": "info@exchangerate-api.com"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.exchangerate-api.com"
+        }
+    ]
+}
